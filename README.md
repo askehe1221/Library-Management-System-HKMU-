@@ -12,5 +12,5 @@
 
  - execute main.py file
 ## Screenshots
-![](/imgs/2026-03-03/tg8psL5pze58jfDb.png)
+![](<img width="473" height="321" alt="Image" src="https://github.com/user-attachments/assets/2568e164-2385-47a7-b869-992fc49fc585" />)
 # Task 2
