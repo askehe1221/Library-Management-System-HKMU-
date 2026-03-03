@@ -1,6 +1,6 @@
 from book import Book
   
-#管理图书类
+#Manage Library Class
 class Library(object):
     def __init__(self):
         self.books =[]
@@ -47,3 +47,4 @@ class Library(object):
 
 
     
+
