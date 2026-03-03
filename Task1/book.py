@@ -1,6 +1,6 @@
-class Book(object):#book 类 图书
+class Book(object):#book book class
 
-    def __init__(self,book_id,name,author,status=1): #默认其未借出
+    def __init__(self,book_id,name,author,status=1): #Not currently on loan
         self.book_id=book_id
         self.name=name
         self.author=author
@@ -14,4 +14,5 @@ class Book(object):#book 类 图书
             status = "On loan"
         else:
             status= "Status Error"
+
         return 'Name:《{}》,Author:{},Status:<{}>'.format(self.name,self.author,status)
