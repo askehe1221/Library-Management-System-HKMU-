@@ -1,5 +1,5 @@
 # Task 1 -->Library  Management System
-## Library Mangement System 
+## Library Management System 
 ### A simple Library Management System implemented with Python, supporting basic book management and library management, and book borrowing/returning functions.
 ## Features
 
