@@ -15,4 +15,16 @@
 <img width="473" height="321" alt="Image" src="https://github.com/user-attachments/assets/1db0b3d0-b983-4bfb-a456-74233c8626c6" />
 
 
-# Task2
+# Task 2
+## This task include 2 self-learning part
+
+ - binary tree
+ - heap sort
+ 
+ ## Binary Tree
+ ### It is....
+
+
+
+## Heap Sort
+### It is....
