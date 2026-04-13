@@ -36,7 +36,7 @@ task1/
 ├── library.py       # Library class, implements core functions for book and borrowing management
 ├── gui.py           # GUI interface implementation
 ├── main.py          # Program entry point
-├── menu.py          # Command line menu (no longer used)
+├── menu.py          # Command line menu 
 ├── library_data.json # Data storage file
 ```
 
