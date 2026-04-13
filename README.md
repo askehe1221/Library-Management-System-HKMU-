@@ -38,7 +38,6 @@ task1/
 ├── main.py          # Program entry point
 ├── menu.py          # Command line menu (no longer used)
 ├── library_data.json # Data storage file
-└── __pycache__/     # Python compilation cache directory
 ```
 
 ## How to Run
@@ -108,3 +107,77 @@ When the system starts, if there is no `library_data.json` file, the following i
 ## Contribution
 
 Welcome to provide suggestions and improvements for this project!
+# Task 2: Binary Tree and Heap Sort
+
+## Project Introduction
+
+This project contains implementations and analyses of binary tree data structure and heap sort algorithm. Through this project, you can learn about the basic concepts, implementation methods, and application scenarios of binary trees, as well as the principles, implementation, and performance analysis of heap sort algorithm.
+
+## Directory Structure
+
+```
+task2/
+├── binary_tree.py       # Binary tree implementation
+├── heap_sort.py         # Heap sort implementation
+└── README.md            # This file
+```
+
+## Main Files Description
+
+### 1. binary_tree.py
+
+Implements basic binary tree functions, including:
+- Node addition
+- Four traversal methods (pre-order, in-order, post-order, level-order)
+- Calculating tree height and node count
+- Finding nodes and maximum/minimum values
+
+### 2. heap_sort.py
+
+Implements the heap sort algorithm, including:
+- Recursive and non-recursive versions of heapify function
+- Support for ascending and descending sort
+- Efficient sorting with O(n log n) time complexity
+
+## How to Use
+
+### Run Binary Tree Example
+
+```python
+# Run binary tree test
+python binary_tree.py
+```
+
+### Run Heap Sort Example
+
+```python
+# Run heap sort test
+python heap_sort.py
+```
+
+## Technical Points
+
+### Binary Tree
+- **Data Structure**: Non-linear data structure where each node has at most two children
+- **Traversal Methods**: Pre-order, in-order, post-order, level-order
+- **Application Scenarios**: Binary search tree, balanced binary tree, heap, Huffman tree, expression tree
+- **Time Complexity**: Traversal O(n), search in binary search tree average O(log n)
+
+### Heap Sort
+- **Algorithm Principle**: Sorting algorithm based on heap data structure
+- **Time Complexity**: O(n log n)
+- **Space Complexity**: O(1) (in-place sorting)
+- **Application Scenarios**: Priority queue, large-scale data sorting, selection problems
+
+## Learning Points
+
+Through this project, you can learn:
+- Basic concepts and implementation methods of binary trees
+- Principles and implementation of heap sort algorithm
+- Time complexity analysis of data structures and algorithms
+- Application scenarios of different data structures and algorithms
+- Methods for code optimization and performance improvement
+
+## Summary
+
+This project provides complete implementations and detailed analyses of binary tree and heap sort, serving as a good resource for learning data structures and algorithms. By understanding and running these codes, you can deepen your understanding of binary trees and heap sort, laying a foundation for more complex algorithm learning
