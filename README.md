@@ -119,7 +119,6 @@ This project contains implementations and analyses of binary tree data structure
 task2/
 ├── binary_tree.py       # Binary tree implementation
 ├── heap_sort.py         # Heap sort implementation
-└── README.md            # This file
 ```
 
 ## Main Files Description
