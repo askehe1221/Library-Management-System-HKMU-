@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "book_id": 1,
+      "name": "Python Programming",
+      "author": "Jack",
+      "category": "Computer Science",
+      "status": 1
+    },
+    {
+      "book_id": 2,
+      "name": "Data Structures",
+      "author": "Li",
+      "category": "Computer Science",
+      "status": 1
+    },
+    {
+      "book_id": 3,
+      "name": "Algorithms",
+      "author": "He",
+      "category": "Computer Science",
+      "status": 1
+    },
+    {
+      "book_id": 4,
+      "name": "Introduction to Physics",
+      "author": "Smith",
+      "category": "Science",
+      "status": 1
+    },
+    {
+      "book_id": 5,
+      "name": "World History",
+      "author": "Johnson",
+      "category": "History",
+      "status": 1
+    }
+  ],
+  "borrow_records": []
+}
